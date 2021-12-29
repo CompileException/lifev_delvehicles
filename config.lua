@@ -1,3 +1,6 @@
+-- Code by LucasL.#1024
+--   coded for LifeV 
+
 Config, Locale = {}, {}
 
 Config.locale = "de"
